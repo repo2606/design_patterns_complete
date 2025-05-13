@@ -31,9 +31,9 @@ public class Main {
                 = new Application(new MacUIFactory());
         application.paint();
 
-        System.out.println( "changes in feature/abstract branch");
+    System.out.println( "Inventory chnages");
 
-        System.out.println( "Abstract factory is factory of factory");
+        
         
     }
 }
