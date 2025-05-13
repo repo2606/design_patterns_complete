@@ -31,7 +31,9 @@ public class Main {
                 = new Application(new MacUIFactory());
         application.paint();
 
-       
+
+    System.out.println( "Inventory chnages");
+
 
         
     }
