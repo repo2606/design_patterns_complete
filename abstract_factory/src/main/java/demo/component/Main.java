@@ -30,5 +30,7 @@ public class Main {
         Application application
                 = new Application(new MacUIFactory());
         application.paint();
+
+        System.out.println( "changes in feature/abstract branch");
     }
 }
