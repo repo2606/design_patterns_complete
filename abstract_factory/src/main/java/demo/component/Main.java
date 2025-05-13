@@ -33,7 +33,10 @@ public class Main {
 
         System.out.println( "security changes");
 
-        System.out.println( "Abstract factory is factory of factory");
+
+    System.out.println( "Inventory chnages");
+
+
         
     }
 }
