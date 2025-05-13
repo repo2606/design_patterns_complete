@@ -32,5 +32,8 @@ public class Main {
         application.paint();
 
         System.out.println( "changes in feature/abstract branch");
+
+        System.out.println( "Abstract factory is factory of factory");
+        
     }
 }
